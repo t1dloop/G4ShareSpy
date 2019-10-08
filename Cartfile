@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "remote-overrides"
-github "LoopKit/dexcom-share-client-swift" "remote-overrides"
+github "t1dloop/LoopKit" "hondo"
+github "t1dloop/dexcom-share-client-swift" "hondo"
