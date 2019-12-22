@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "dev"
+github "t1dloop/LoopKit" "microboluses"
+github "t1dloop/dexcom-share-client-swift" "microboluses"
